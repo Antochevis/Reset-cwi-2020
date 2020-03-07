@@ -2,10 +2,10 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("é os gu do inter");
-        System.out.println("ggwp");
-        System.out.println("Colorado");
-        System.out.println("aloha");
+        System.out.println("teste");
+        System.out.println("teste2");
+        System.out.println("teste3");
+        System.out.println("teste4");
 
     }
 }
