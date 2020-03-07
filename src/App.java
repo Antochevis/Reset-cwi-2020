@@ -4,6 +4,9 @@ public class App {
 
     public static void main(String[] args) {
 
+        System.out.println("Hello World!");
+
+
         Calculadora calculadoraDeIdades = new Calculadora();
         int somaDasIdades = calculadoraDeIdades.somar(33, 54);
         System.out.println(somaDasIdades);
@@ -16,5 +19,11 @@ public class App {
 
         int divisaoDasIdades = calculadoraDeIdades.divide(99, 33);
         System.out.println(divisaoDasIdades);
+
+
+        Comparador comparaNumeros = new Comparador();
+        boolean comparacao = comparaNumeros.menorQue(12, 27);
+        System.out.println(comparacao);
+
     }
 }
