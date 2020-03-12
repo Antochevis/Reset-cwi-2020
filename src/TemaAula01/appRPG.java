@@ -1,7 +1,5 @@
 package TemaAula01;
 
-import java.sql.SQLOutput;
-
 public class appRPG {
     public static void main(String[] args) {
 
