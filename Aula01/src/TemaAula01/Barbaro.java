@@ -6,7 +6,7 @@ public class Barbaro {
     int ataque;
     int defesa;
 
-    Barbaro(String nomeDoBarbaro, int vida, int ataque, int defesa){
+    public Barbaro(String nomeDoBarbaro, int vida, int ataque, int defesa){
         this.nomeDoBarbaro = nomeDoBarbaro;
         this.vida = vida;
         this.ataque = ataque;
